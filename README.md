@@ -20,7 +20,8 @@
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inaxxestudo-wq&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inaxxestudo-wq&show_icons=true&theme=github_dark)
+
 
 ---
 
